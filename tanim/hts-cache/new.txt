@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+13:07:42	134/134	---M--	301	error ('Moved%20Permanently')	text/html	date:Sat,%2022%20Apr%202023%2011:07:41%20GMT	http://www.zoho.com/robots.txt		(from )
+13:07:43	134/134	---M--	301	error ('Moved%20Permanently')	text/html	date:Sat,%2022%20Apr%202023%2011:07:41%20GMT	http://www.zoho.com/ar/social/	C:/My%20Web%20Sites/tanim/www.zoho.com/ar/social/index.html	(from )
